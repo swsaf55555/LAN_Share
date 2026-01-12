@@ -1,0 +1,15 @@
+﻿<Application x:Class="WifiDownload.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WifiDownload"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Window">
+                <Setter Property="Background" Value="#F7F8FA"/>
+                <Setter Property="Foreground" Value="#222"/>
+                <Setter Property="FontFamily" Value="Segoe UI"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
