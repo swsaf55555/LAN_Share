@@ -51,13 +51,13 @@
 
 ## 界面截图
 
-![image-20260112141716714](README.assets/image-20260112141716714.png)
+<img src="README.assets/image-20260112141716714.png" alt="image-20260112141716714" style="zoom:50%;" />
 
-![image-20260112141805216](README.assets/image-20260112141805216.png)
+<img src="README.assets/image-20260112141805216.png" alt="image-20260112141805216" style="zoom: 50%;" />
 
-![image-20260112142749872](README.assets/image-20260112142749872.png)
+<img src="README.assets/image-20260112142749872.png" alt="image-20260112142749872" style="zoom: 25%;" />
 
-![image-20260112142800038](README.assets/image-20260112142800038.png)
+<img src="README.assets/image-20260112142800038.png" alt="image-20260112142800038" style="zoom:25%;" />
 
 ## 技术实现
 
